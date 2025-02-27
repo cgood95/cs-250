@@ -1,1 +1,11 @@
-# cs-250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
+
+Interpreting user needs and implementing them into a program requires careful analysis and communication. To do this effectively, I must engage with users, gather their requirements, and translate their needs into functional features. Creating “user stories” helps by breaking down user needs into clear, concise descriptions of what they want to achieve. User stories, written from the perspective of the user, ensure that the development process remains user-centered. They guide me in prioritizing tasks and building software that aligns with real-world use cases. By focusing on user stories, I can better understand the problem, identify key features, and create a program that provides value to the end user.  
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?  
+
+When developing programs, I approach the process by first understanding the problem and then planning a structured solution. I aim to follow Agile methodologies, such as iterative development, continuous feedback, and collaboration. Agile processes like Scrum or Kanban help break down development into manageable sprints, allowing for flexibility and improvement based on user feedback. I hope to incorporate daily stand-ups, sprint planning, and retrospectives into my future development work. These practices ensure continuous progress, allow for adaptation, and foster teamwork, ultimately leading to a more efficient and user-focused product.  
+
+What does it mean to be a good team member in software development?  
+
+Being a good team member in software development means communicating effectively, collaborating with others, and being open to feedback. I strive to contribute my skills while also supporting my teammates, sharing knowledge, and resolving conflicts constructively. A good team member listens actively, respects different perspectives, and works towards shared goals. I also believe in maintaining accountability by completing my tasks on time and being transparent about challenges. By fostering a positive and productive team environment, I can help create software that is not only well-built but also the result of strong teamwork and shared effort.
